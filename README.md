@@ -1,2 +1,2 @@
 # Machine-Learning-Lab
-This repository contains the Machine Laeraning Labworks
+This repository contains the Machine Learning Labworks
