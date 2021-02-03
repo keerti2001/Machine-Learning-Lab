@@ -1,0 +1,18 @@
+## Submitted by - 
+Name : Keerti Chaudhary
+Roll No.: 181CO226
+Date : 02-02-2021
+
+## Decision Tree Classifiers implemented :  
+1. ID3  (using information gain) 
+2. C4.5 (using gain ratio) 
+3. CART (using gini index)
+
+Used cross validation here. 
+
+## Observation
+The accuracy of various decision tree algorithms based on cross validation are:
+1. ID3 : accuracy: 77.69% +/- 2.53% (micro average: 96.67%)
+2. CART : accuracy:77.54% +/- 3.76% (micro average: 94.00%)
+3. C4.5: accuracy: 80.14% +/- 3.94% 
+ Here C4.5 gives the best result.
