@@ -1,0 +1,1 @@
+Implement Naive Bayes Classifier using Python for a sample dataset.Compute the accuracy of the classifier.
