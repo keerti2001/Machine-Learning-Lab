@@ -1,0 +1,1 @@
+Implement Linear Regression using Python for a sample dataset.Compute the accuracy of the model.
