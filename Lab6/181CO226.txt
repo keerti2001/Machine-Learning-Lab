@@ -1,0 +1,16 @@
+## Submitted by - 
+Name : Keerti Chaudhary
+Roll No.: 181CO226
+Date : 16-03-2021
+
+## Classifiers implemented :  
+1. K-Nearest Neighbours for Default Credit Card dataset 
+2. Support Vector Machine for Image Processing 
+
+
+Used cross validation here. 
+
+## Observation
+The accuracy of various decision tree algorithms based on cross validation are:
+1. K-Nearest Neighbours for Default Credit Card dataset : 77%
+2. Support Vector Machine for Image Processing : 97%
